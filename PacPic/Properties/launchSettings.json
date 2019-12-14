@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PacPic": {
+      "commandName": "Project",
+      "commandLineArgs": "-m \"D:/Text/Applications/PacPic/PacPic/temp/pic/\" 1329 DA0024 DB0000 1"
+    }
+  }
+}
